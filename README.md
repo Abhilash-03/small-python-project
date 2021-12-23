@@ -3,10 +3,10 @@ This is my small python project.
 
 
 # install  packages
-1. json package
+1. json package :
    pip install json
    
-2. requests package
+2. requests package :
   pip install requests
   
 # Make your account on newsapi.com
